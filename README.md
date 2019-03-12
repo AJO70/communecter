@@ -20,7 +20,7 @@ we need asap the a json-ld smaple descriptions of :
 - [city]()
 
 
-current Status 
+Current Status 
 ===========
 released : xx
 url : 
